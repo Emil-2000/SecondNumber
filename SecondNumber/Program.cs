@@ -179,6 +179,7 @@ namespace Packets
         static List<string> CreateData(string ServerName, int Send, int Received, int Minimum, int Maximum, int Average)
         {
             // Возвращаемый список
+
             List<string> result = new List<string>();
             // если все пакеты утеряны
             if (Received == 0)
