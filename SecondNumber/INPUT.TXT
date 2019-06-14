@@ -1,0 +1,5 @@
+ping 209.85.135.147
+Time out
+Reply from 209.85.135.147 Time=100
+Reply from 209.85.135.147 Time=300
+Reply from 209.85.135.147 Time=200
